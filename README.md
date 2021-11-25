@@ -3,5 +3,4 @@
 </h1>
 <h3 align="center">
   🇬🇧 Native | 🇫🇷 B2 | 🇮🇩 A2 <br>
-  ^ CEFR ^
 </h3>
