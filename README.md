@@ -2,5 +2,7 @@
   Hey, I'm Cameron !! ^w^
 </h1>
 <p align="center">
-  EN: Native | FR: B2 | ID: A2
+  🇬🇧 Native | 🇫🇷 B2 | 🇮🇩 A2
 </p>
+<h6 align="center">
+  ([CEFR](https://europa.eu/europass/en/common-european-framework-reference))
