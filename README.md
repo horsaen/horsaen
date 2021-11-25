@@ -1,10 +1,10 @@
 <h1 align="center">
   Hey, I'm Cameron !! ^w^
 </h1>
-<section align="center">
+<body align="center">
   CEFR <br>
   🇬🇧 Native | 🇫🇷 B2 | 🇮🇩 A2
-</section>
+</body>
 <p>
   CEFR <br>
   🇬🇧 Native | 🇫🇷 B2 | 🇮🇩 A2
