@@ -2,5 +2,5 @@
   Hey, I'm Cameron !! ^w^
 </h1>
 <p align="center">
-  WIP
+  EN: Native | FR: B2 | ID: A2
 </p>
