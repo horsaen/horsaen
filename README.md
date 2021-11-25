@@ -2,8 +2,6 @@
   Hey, I'm Cameron !! ^w^
 </h1>
 <h3 align="center">
-  🇬🇧 Native | 🇫🇷 B2 | 🇮🇩 A2
+  🇬🇧 Native | 🇫🇷 B2 | 🇮🇩 A2 <br>
+  ^ CEFR ^
 </h3>
-<h6 align="center">
-  CEFR
-</h6>
