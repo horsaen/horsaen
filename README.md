@@ -7,3 +7,6 @@
 <h3 align="center">
   🇬🇧 N | 🇫🇷 B2 | 🇮🇩 A2 <br>
 </h3>
+<p align="center">
+ <a href="https://www.linkedin.com/in/horsain">Information for employers</a>
+</p>
