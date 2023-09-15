@@ -10,6 +10,8 @@
 <h3>contact me</h3>
 
 i'm usually available most of the time on many platforms !!
+
+[PGP key](key.asc)
 - Discord @ gironde
 - Instagram @ [ihatepapertowel](https://instagram.com/ihatepapertowel)
 - Email @ [atealltheglue@protonmail.com](mailto:atealltheglue@protonmail.com)
