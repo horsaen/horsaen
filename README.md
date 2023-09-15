@@ -7,6 +7,8 @@
 
 <p>i am also very interested in satellite communications and radio astronomy, feel free to talk to me about it :))</p>
 
+🇺🇸 C2 | 🇫🇷 B2 | 🇮🇩 A2
+
 <h3>contact me</h3>
 
 i'm usually available most of the time on many platforms !!
